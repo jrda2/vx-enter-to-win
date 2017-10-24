@@ -3,8 +3,8 @@
 A fullstack web app created using Node.js, Express, EJS, and MongoDB. The concept used was a simple promotion sponsored by Virgin America to promote flights to San Francisco. The landing page allows users to enter their information. After successful submission, you can check the admin console where submission data hosted on the database will be listed.
 
 ## Demo
-* [App](http://entertowin.dcge.co)
-* [Admin](http://entertowin.dcge.co/admin)
+* [App](http://vx-signup.dcge.co)
+* [Admin](http://vx-signup.dcge.co/admin)
 
 ## Installing
 
